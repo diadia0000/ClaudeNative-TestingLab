@@ -31,7 +31,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 480, margin: "60px auto", fontFamily: "sans-serif" }}>
-      <h1> Todo List</h1>
+      <h1> Buy List</h1>
       <div style={{ display: "flex", gap: 8 }}>
         <input
           data-testid="item-input"
