@@ -21,3 +21,5 @@ Thumbs.db
 # Env files
 .env
 .env.local
+picture/
+docs/
